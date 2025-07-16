@@ -86,9 +86,3 @@ These help reveal how students **perceive**, **use**, and sometimes **question**
 ## 📬 Feedback & Contributions
 
 If you found this helpful or would like to collaborate on extending this to a full **ChatGPT-in-education research series**, feel free to fork or connect!
-
----
-
-## 📎 Related Tags
-
-`#chatgpt` `#sentiment-analysis` `#students` `#nlp` `#education` `#reddit` `#language-models` `#ethics-in-ai`
